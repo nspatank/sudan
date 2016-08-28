@@ -1,4 +1,4 @@
-\* Source Pyomo model name=The Temoa Energy System Model *\
+Removed the line '\* Source Pyomo model name=The Temoa Energy System Model *\'
 
 min 
 TotalCost:
